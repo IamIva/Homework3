@@ -1,0 +1,53 @@
+img{
+	width: 100px;
+}
+ul{
+	list-style: none;
+}
+a{
+	color: #3D58A6;
+	font-size: 22px;
+	text-decoration: none;
+}
+span{
+	color: #EE4036;
+}
+span img{
+	width: 270px;
+}
+p{
+	font-size: 16px;
+}
+h1{
+	font-size: 20px;
+}
+.text{
+	text-align: right;
+	display: inline-block;
+}
+.po{
+	display: inline-block;
+}
+.li{
+	display: inline-block;
+	margin-left: 65px;
+	margin-right: 65px;
+}
+.ricxvi{
+	color: white;
+	background-color: #4343bf;
+	display:inline-block;
+	font-size: 48px;
+	margin-bottom: 0.5px;
+}
+.logoebi{
+	display: inline-block;
+	margin-right: 1.5px;
+}
+.logoebi img{
+	height: 29.9915px;
+}
+.maisi{
+	color: #4343bf;
+	margin-top: 0.5px
+}
